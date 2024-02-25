@@ -1,0 +1,13 @@
+---
+title: EDA
+author: Your name
+format: gfm
+---
+
+```{r}
+library(ggplot2)
+library(justviz)
+
+source(here::here("utils/plotting_utils.R"))
+```
+
