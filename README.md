@@ -1,4 +1,6 @@
-# GES 778 midterm project
+---
+title: GES 778 midterm project
+---
 
 ## Intro
 
@@ -6,17 +8,17 @@ This is a scaffold for your GES 778 midterm project. To get you started, it cont
 
 ```         
 .
-├── code
-│   ├── 01_eda.qmd
-│   ├── 02_sketches.qmd
-│   └── 03_final_draft.qmd
-├── data
-├── midterm.Rproj
-├── plots
-├── _quarto.yml
-├── README.md
-└── utils
-    └── plotting_utils.R
+|── code
+│   |── 01_eda.qmd
+│   |── 02_sketches.qmd
+│   |── 03_final_draft.qmd
+|── data
+|── midterm.Rproj
+|── plots
+|── _quarto.yml
+|── README.md
+|── utils
+    |── plotting_utils.R
 ```
 
 Some good coding practices you should use here:
@@ -29,7 +31,6 @@ Some good coding practices you should use here:
 -   Use notebooks and knit / render them often
 -   Write comments & notes in your notebooks as you work, so your final write-up will be easier
 -   Make git commits often and push them to GitHub often, with informative commit messages (e.g. "Adjust colors in EDA charts" rather than "Work on charts")
-
 
 ## Exploratory data analysis / visualization
 
@@ -48,7 +49,7 @@ In your sketches notebook, you'll take what you've decided you want to show, and
 Then **sketch with code** to figure out what you'll want for your final charts. Some examples of moving from EDA to a sketch are:
 
 | EDA                                                                 | Sketch                                                                                                             |
-|---------------------------|---------------------------------------------|
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Scatterplot of 2 variables from the ACS dataset (x and y encodings) | Scatterplot of those same 2 variables, filtered for just metro areas and adding a 3rd variable via a size encoding |
 | Stacked bar chart                                                   | Separating those same bars with facets instead of stacking them                                                    |
 | Side-by-side (dodged) bar chart to show differences between groups  | Dot chart to show the same differences, but with better focus on the range of values in the dataset                |
@@ -60,6 +61,6 @@ By the end of this notebook, you will have decided on 2 to 3 charts that you'll 
 
 ## Final draft
 
-In your final draft, you'll have just a few chunks of code, 1 per chart. Your project will be graded on each chart in this notebook, so keep your experimentation in the sketches notebook. 
+In your final draft, you'll have just a few chunks of code, 1 per chart. Your project will be graded on each chart in this notebook, so keep your experimentation in the sketches notebook.
 
 At this point you will have decided on everything applicable in the [decisionmaking checklist](https://umbc-viz.github.io/ges778/decision_checklist.html), and now you'll just be implementing those decisions as cleanly as possible.
