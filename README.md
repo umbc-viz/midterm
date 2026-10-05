@@ -46,8 +46,8 @@ You will hand in the following, all within this repo:
 - A **final draft** Quarto notebook and its rendered markdown with 3 charts and
   1 table, all related to each other
   - If you make a chart with a ggplot extension that we haven't used in class,
-    that can count for 2 charts. See the list of acceptable extensions on
-    Blackboard.
+    that can count for 2 charts. See the list of acceptable extensions in
+    `./extensions.md`.
 - **Technical notes**. This is a short, informal document (bulletpoints are
   great) laying out details of what you did, what technical decisions you made
   and why, and guidance on working with your code further. Think of it as notes
