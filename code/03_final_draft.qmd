@@ -5,9 +5,7 @@ format: gfm
 ---
 
 ```{r}
-library(ggplot2)
-library(justviz)
+#| label: setup
 
-source(here::here("utils/plotting_utils.R"))
+# 
 ```
-
