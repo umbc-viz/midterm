@@ -48,17 +48,20 @@ You will hand in the following, all within this repo:
   - If you make a chart with a ggplot extension that we haven't used in class,
     that can count for 2 charts. See the list of acceptable extensions in
     `./extensions.md`.
-- **Technical notes**. This is a short, informal document (bulletpoints are
-  great) laying out details of what you did, what technical decisions you made
-  and why, and guidance on working with your code further. Think of it as notes
-  you'll reference when you use parts of your code at your next job or your
-  capstone a year from now, or how you'll acquaint another developer with your
-  code.
-- **Abstract**. This is a short, non-technical document giving a high-level
-  overview of the project explaining your decisions to a non-coder, focused more
-  on what you set out to do, how you revised it, and what lessons you
-  incorporated from the readings and case study. If you were to send your
-  project as a work sample for a job, this would be its intro. 400 words max.
+- **Technical notes**. This is a short, informal markdown document (bulletpoints
+  are great) laying out details of what you did, what technical decisions you
+  made and why, and guidance on working with your code further. Focus on what's
+  in the final draft notebook, but explain ways you manipulated data leading up
+  to the final draft. Think of it as notes you'll reference when you use parts
+  of your code at your next job or your capstone a year from now, or how you'll
+  acquaint another developer with your code.
+- **Abstract**. This is a short, non-technical markdown document giving a
+  high-level overview of the project explaining your decisions to a non-coder,
+  focused more on what you set out to do, how you revised it, and what lessons
+  you incorporated from the readings and case study. It should also briefly
+  state the sources of your data (don't need to use formal citations). If you
+  were to send your project as a work sample for a job, this would be its intro.
+  400 words max.
 
 ## Code
 
